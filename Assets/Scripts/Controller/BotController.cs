@@ -7,6 +7,7 @@ using Model.Config;
 using UnityEngine;
 using Utilities;
 //hello
+//I'm friendly
 namespace Controller
 {
     public class BotController
@@ -72,4 +73,5 @@ namespace Controller
         }
     }
 }
+
 
